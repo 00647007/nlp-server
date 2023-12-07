@@ -1,0 +1,15 @@
+fastapi==0.104.1
+locustio==0.999
+numpy==1.26.2
+pydantic==1.10.12
+pydantic_numpy==4.1.0
+PyYAML==6.0.1
+PyYAML==6.0.1
+sentence_transformers==2.2.2
+spacy==3.7.2
+starlette==0.33.0
+torch==2.1.1
+torch_xla==2.1.0
+tqdm==4.66.1
+transformers==4.35.2
+uvicorn==0.24.0.post1
